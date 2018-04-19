@@ -1,0 +1,2 @@
+ (  {"clover":{"build":{"date":"April 30 2017","number":"build-1000","stamp":20170430005756651},"release":"4.2.0"},"report":{"callback":"processClover","columns":["LineCount","NcLineCount","Complexity","Tests","PassingTests","FailingTests","ErroneousTests","TestExecutionTime","PcPassingTests","PcFailingTests","PcErroneousTests"],"mode":"static","stamp":20180130172137632}}
+ ); 

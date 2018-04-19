@@ -1,0 +1,2 @@
+processClover (  {"axis":{"x":{"max":164,"min":128,"title":"Average Method Complexity"},"y":{"max":88,"min":78,"title":"Coverage"}},"classes":[{"name":"Money","path":"com/atlassian/samples/money/Money","x":128,"y":88},{"name":"MoneyBag","path":"com/atlassian/samples/money/MoneyBag","x":164,"y":78}]}
+ ); 

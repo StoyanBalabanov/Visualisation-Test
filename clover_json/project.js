@@ -1,0 +1,2 @@
+processClover (  {"children":["com/atlassian/samples/money/"],"name":"Clover database Tue Jan 30 2018 16:58:59 GMT","stats":{"Complexity":46,"ErroneousTests":0,"FailingTests":0,"LineCount":286,"NcLineCount":191,"PassingTests":0,"PcErroneousTests":-1,"PcFailingTests":-1,"PcPassingTests":-1,"TestExecutionTime":0,"Tests":0}}
+ ); 

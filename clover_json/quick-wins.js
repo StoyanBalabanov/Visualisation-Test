@@ -1,0 +1,2 @@
+processClover (  {"axis":{"x":{"max":106,"min":45,"title":"# Elements"},"y":{"max":83,"min":40,"title":"# Elements Covered"}},"classes":[{"name":"Money","path":"com/atlassian/samples/money/Money","x":45,"y":40},{"name":"MoneyBag","path":"com/atlassian/samples/money/MoneyBag","x":106,"y":83}]}
+ ); 

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1523720523251" clover="4.2.0">
+   <project timestamp="1523720508466">
+      <metrics coveredelements="123" complexity="46" loc="286" methods="31" classes="3" statements="90" packages="1" coveredconditionals="21" coveredmethods="29" elements="151" ncloc="191" files="3" conditionals="30" coveredstatements="73"/>
+      <package name="com.atlassian.samples.money">
+         <metrics coveredelements="123" complexity="46" loc="286" methods="31" classes="3" statements="90" coveredconditionals="21" coveredmethods="29" elements="151" ncloc="191" files="3" conditionals="30" coveredstatements="73"/>
+         <file path="C:\Users\UserPC\Desktop\tutorial\src\main\java\com\atlassian\samples\money\MoneyBag.java" name="MoneyBag.java">
+            <metrics coveredelements="83" coveredconditionals="16" complexity="28" loc="152" coveredmethods="15" methods="17" elements="106" classes="1" ncloc="121" statements="67" conditionals="22" coveredstatements="52"/>
+            <class name="MoneyBag">
+               <metrics coveredelements="83" coveredconditionals="16" complexity="28" coveredmethods="15" methods="17" elements="106" statements="67" conditionals="22" coveredstatements="52"/>
+            </class>
+         </file>
+         <file path="C:\Users\UserPC\Desktop\tutorial\src\main\java\com\atlassian\samples\money\Money.java" name="Money.java">
+            <metrics coveredelements="40" coveredconditionals="5" complexity="18" loc="86" coveredmethods="14" methods="14" elements="45" classes="1" ncloc="60" statements="23" conditionals="8" coveredstatements="21"/>
+            <class name="Money">
+               <metrics coveredelements="40" coveredconditionals="5" complexity="18" coveredmethods="14" methods="14" elements="45" statements="23" conditionals="8" coveredstatements="21"/>
+            </class>
+         </file>
+         <file path="C:\Users\UserPC\Desktop\tutorial\src\main\java\com\atlassian\samples\money\IMoney.java" name="IMoney.java">
+            <metrics coveredelements="0" coveredconditionals="0" complexity="0" loc="48" coveredmethods="0" methods="0" elements="0" classes="1" ncloc="10" statements="0" conditionals="0" coveredstatements="0"/>
+            <class name="IMoney">
+               <metrics coveredelements="0" coveredconditionals="0" complexity="0" coveredmethods="0" methods="0" elements="0" statements="0" conditionals="0" coveredstatements="0"/>
+            </class>
+         </file>
+      </package>
+   </project>
+   <testproject timestamp="1523720508466">
+      <metrics coveredelements="89" complexity="25" loc="221" methods="25" classes="2" statements="69" packages="1" coveredconditionals="0" coveredmethods="24" elements="94" ncloc="163" files="2" conditionals="0" coveredstatements="65"/>
+      <package name="com.atlassian.samples.money">
+         <metrics coveredelements="89" complexity="25" loc="221" methods="25" classes="2" statements="69" coveredconditionals="0" coveredmethods="24" elements="94" ncloc="163" files="2" conditionals="0" coveredstatements="65"/>
+         <file path="C:\Users\UserPC\Desktop\tutorial\src\test\java\com\atlassian\samples\money\MoneyBagTest.java" name="MoneyBagTest.java">
+            <metrics coveredelements="83" coveredconditionals="0" complexity="24" loc="199" coveredmethods="23" methods="24" elements="88" classes="1" ncloc="150" statements="64" conditionals="0" coveredstatements="60"/>
+            <class name="MoneyBagTest">
+               <metrics coveredelements="83" complexity="24" methods="24" testruns="22" statements="64" coveredconditionals="0" coveredmethods="23" elements="88" testfailures="1" testduration="0.033" conditionals="0" coveredstatements="60" testpasses="21"/>
+            </class>
+         </file>
+         <file path="C:\Users\UserPC\Desktop\tutorial\src\test\java\com\atlassian\samples\money\MoneyTest.java" name="MoneyTest.java">
+            <metrics coveredelements="6" coveredconditionals="0" complexity="1" loc="22" coveredmethods="1" methods="1" elements="6" classes="1" ncloc="13" statements="5" conditionals="0" coveredstatements="5"/>
+            <class name="MoneyTest">
+               <metrics coveredelements="6" complexity="1" methods="1" testruns="1" statements="5" coveredconditionals="0" coveredmethods="1" elements="6" testfailures="0" testduration="1.027" conditionals="0" coveredstatements="5" testpasses="1"/>
+            </class>
+         </file>
+      </package>
+   </testproject>
+</coverage>
